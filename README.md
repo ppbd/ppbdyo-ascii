@@ -1,7 +1,4 @@
 
-![This is an image](https://raw.githubusercontent.com/ppbd/ppbdyo-ascii/main/ppbdyo-ascii-transp240x240.png) 
-
-
 # ppbdyo-ascii-transp.png
 
 ## my logo for me - ppbdyo
